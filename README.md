@@ -1,8 +1,8 @@
-# Я ебал этот ваш гитхаб!
+# Я ~~ебал~~ люблю этот ваш гитхаб!
 
 
 ```python
-print("Hellom World!")
+print("Hello, World!")
 ```
 
 
